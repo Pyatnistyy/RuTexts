@@ -1,9 +1,9 @@
 {
   "pack": {
     "description": "Перевод сплэшей, поэмы Энда и титров на русский язык!",
-    "pack_format": 80,
+    "pack_format": 102,
     "min_format": [
-      80
+      87
     ],
     "max_format": [
       102
